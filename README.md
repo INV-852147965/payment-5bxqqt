@@ -1,8 +1,10 @@
 September 15, 2026
 
-<!-- notify 1/2 -->
-## Notification 1/2 · notify
-Round: Round 1
-To: mapickman@aol.com, rp_only@yahoo.com
-At: 2026-09-15 21:59:56
-Id: 30NvH6Pj
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2 · notify
+Round: Round 2
+To: rroy1000@aol.com, wantuc@ameritech.net
+At: 2026-09-15 22:00:35
+Id: QEQAqPvH
